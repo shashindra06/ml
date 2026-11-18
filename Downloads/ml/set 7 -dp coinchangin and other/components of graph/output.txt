@@ -1,0 +1,8 @@
+Strongly Connected Components:
+SCC: 4 3 2 1 0 
+
+Articulation Points:
+None
+
+Bridges:
+None

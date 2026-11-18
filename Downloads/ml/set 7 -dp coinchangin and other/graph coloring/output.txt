@@ -1,0 +1,7 @@
+Graph can be colored with 3 colors
+Coloring of vertices:
+Vertex 0 --> Color 1
+Vertex 1 --> Color 2
+Vertex 2 --> Color 3
+Vertex 3 --> Color 1
+Vertex 4 --> Color 2

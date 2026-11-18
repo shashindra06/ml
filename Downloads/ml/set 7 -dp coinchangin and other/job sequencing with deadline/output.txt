@@ -1,0 +1,6 @@
+Total Profit: 150
+Jobs selected (1=yes, 0=no):
+Job 0: 1
+Job 1: 1
+Job 2: -69461912
+Job 3: 32761

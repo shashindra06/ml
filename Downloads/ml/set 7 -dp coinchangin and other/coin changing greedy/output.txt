@@ -1,0 +1,4 @@
+Coins used to make amount 63:
+2 coin(s) of 25
+1 coin(s) of 10
+3 coin(s) of 1

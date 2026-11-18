@@ -1,0 +1,14 @@
+All Cycles Found:
+
+Cycle: 0 1 2 (length: 3)
+Cycle: 0 3 2 (length: 3)
+Cycle: 1 0 3 (length: 3)
+Cycle: 1 2 3 (length: 3)
+Cycle: 2 1 0 (length: 3)
+Cycle: 2 3 0 (length: 3)
+Cycle: 3 0 1 (length: 3)
+Cycle: 3 2 1 (length: 3)
+
+=== SUMMARY ===
+LONGEST cycle: 3 vertices
+SHORTEST cycle: 3 vertices

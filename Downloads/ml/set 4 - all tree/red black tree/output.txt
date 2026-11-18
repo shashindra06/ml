@@ -1,0 +1,5 @@
+Inorder traversal after insertions:
+5 10 14 20 25 30 40 
+
+Key 14 is found
+Key 50 is not found

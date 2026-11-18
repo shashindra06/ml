@@ -1,0 +1,6 @@
+Inorder traversal after insertions:
+5 7 6 12 17 20 -1163005939 30 
+
+Key 6 is found
+Key 25 is not found
+Key 100 is not found

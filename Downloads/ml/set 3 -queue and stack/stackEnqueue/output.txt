@@ -1,0 +1,8 @@
+Pushed 10
+Pushed 20
+Pushed 30
+Popped 30
+Popped 20
+Pushed 40
+Popped 40
+Popped 10
